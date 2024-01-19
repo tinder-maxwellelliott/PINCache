@@ -7,7 +7,7 @@
 #import <pthread.h>
 
 #if !__has_include (<PINOperation/PINOperation.h>)
-#import "../PINOperation/Source/PINOperation.h"
+#import "../_main~non_module_dependencies~PINOperation/Source/PINOperation.h"
 #else
 #import <PINOperation/PINOperation.h>
 #endif
